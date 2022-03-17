@@ -5,5 +5,5 @@ source "https://rubygems.org"
 # gem "rails"
 gem "rspec"
 gem "sinatra"
-gem 'puma'
-gem 'rspec_junit_formatter'
+gem "puma"
+gem "rspec_junit_formatter"
